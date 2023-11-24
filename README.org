@@ -1,0 +1,23 @@
+#+TITLE: Iz's GNU Guix Config
+#+DESCRIPTION: Mainly for personal backups, but if you want 'em, use 'em.
+#+KEYWORDS: org-mode, guile, readme, scheme, linux, declarative, gnu, guix, izder
+#+PROPERTY: header-args: :tangle ~/.config/guix :mkdirp t
+
++ Mainly for personal backups, but if you want 'em, use 'em!
+
++ /I won't provide support for any issues on your machine, as this is a pet project./
+
+-----
+
+* Table of contents :TOC_8:noexport:
+- [[#disclaimer][DISCLAIMER]]
+
+* DISCLAIMER
+
+- I'm not responsible for any system breakage due to my code.
+
+- If you're unsure, refer to [[LICENSE.txt][THE LICENSE]] to see how seriously I take this.
+
+- /Use with *caution*/
+
+-----
